@@ -68,10 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Screenshot
-### `User Register With Validation`
-![image](https://user-images.githubusercontent.com/52070105/64476504-988c5780-d1b9-11e9-97ac-9d77ed29f19f.png)
-### `User Login With Validation`
-![image](https://user-images.githubusercontent.com/52070105/64476519-beb1f780-d1b9-11e9-8591-ba483f1e2e60.png)
+### `User Login and Register With Validation`
+![arkademy](https://user-images.githubusercontent.com/52070105/64477641-469efe00-d1c8-11e9-83f5-e5f51408de85.gif)
 ### `After Login Redirect to Home and get Token`
 ![image](https://user-images.githubusercontent.com/52070105/64476567-34b65e80-d1ba-11e9-8dfb-c0db01d93b34.png)
 ### `Data Filter`
