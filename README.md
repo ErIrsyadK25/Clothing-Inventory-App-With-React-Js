@@ -69,7 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Screenshot
 ### `User Register With Validation`
-<img src="https://user-images.githubusercontent.com/52070105/64476504-988c5780-d1b9-11e9-97ac-9d77ed29f19f.png height="600px" width="300px">
+<img src="https://user-images.githubusercontent.com/52070105/64476504-988c5780-d1b9-11e9-97ac-9d77ed29f19f.png" height="600px" width="300px">
 ### `User Login With Validation`
 ![image](https://user-images.githubusercontent.com/52070105/64476519-beb1f780-d1b9-11e9-8591-ba483f1e2e60.png){:height="600px" width="300px"}
 ### `After Login Redirect to Home and get Token`
