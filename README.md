@@ -1,7 +1,6 @@
 ## `Distro-Inventory-Implementing-React-Js`
 ![](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
 
-----
 ## Description
 Inventory app is an application about managing a products. Here you can create, edit or delete a products also you can managing a category for a products
 
