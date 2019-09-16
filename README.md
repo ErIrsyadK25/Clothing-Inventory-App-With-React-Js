@@ -34,14 +34,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ## Screenshot
-### `User Login and Register With Validation`
+#### `User Login and Register With Validation`
 ![arkademy](https://user-images.githubusercontent.com/52070105/64477641-469efe00-d1c8-11e9-83f5-e5f51408de85.gif)
-### `After Login Redirect to Home and get Token`
+#### `After Login Redirect to Home and get Token`
 ![image](https://user-images.githubusercontent.com/52070105/64476567-34b65e80-d1ba-11e9-8dfb-c0db01d93b34.png)
-### `Data Filter`
+#### `Data Filter`
 ![image](https://user-images.githubusercontent.com/52070105/64476595-9676c880-d1ba-11e9-9499-8516440a09a3.png)
-### `Add Data`
+#### `Add Data`
 ![image](https://user-images.githubusercontent.com/52070105/64476612-d50c8300-d1ba-11e9-92a4-50ec9a7b05e6.png)
 
-### `Edit Data`
+#### `Edit Data`
 ![image](https://user-images.githubusercontent.com/52070105/64476620-fec5aa00-d1ba-11e9-86e3-26f253b74461.png)
