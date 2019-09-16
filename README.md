@@ -11,6 +11,7 @@ Inventory app is an application about managing a products. Here you can create, 
 
 ## Prerequiste
 - React.js - Download and Install [React.js](https://reactjs.org/).
+- Node.js - Download and Install [Node.js](https://nodejs.org/en/) with [NVM](https://github.com/creationix/nvm) (Node Version Manager) 
 - [Expressjs-Restful-API-With-MySQL-Inventory-App](Expressjs-Restful-API-With-MySQL-Inventory-App) for the API / backend side.
 - MySQL - Download and Install [MySQL](https://www.mysql.com/downloads/) - Make sure it's running on the default port.
 - Code Editor - Download and Install [VS Code](https://code.visualstudio.com/download) - Code editor that i use to create this project.
