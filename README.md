@@ -2,12 +2,17 @@
 ![](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
 
 ----
+## Description
+Inventory app is an application about managing a products. Here you can create, edit or delete a products also you can managing a category for a products
+
 ## Table of contens
 * [Prerequiste](#prerequiste)
 * [Installation](#installation)
 * [Documentation](#screenshot)
+
 ## Prerequiste
 - React.js - Download and Install [React.js](https://reactjs.org/).
+- [Expressjs-Restful-API-With-MySQL-Inventory-App](Expressjs-Restful-API-With-MySQL-Inventory-App) for the API / backend side.
 - MySQL - Download and Install [MySQL](https://www.mysql.com/downloads/) - Make sure it's running on the default port.
 - Code Editor - Download and Install [VS Code](https://code.visualstudio.com/download) - Code editor that i use to create this project.
 - XAMPP - Download and Install [XAMPP](https://www.apachefriends.org/download.html) - XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages. So, i don't need to install mysql anymore.
