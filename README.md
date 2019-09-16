@@ -5,7 +5,7 @@
 ## Table of contens
 * [Prerequiste](#prerequiste)
 * [Installation](#installation)
-* [Documentation](#documentation)
+* [Documentation](#screenshot)
 ## Prerequiste
 - React.js - Download and Install [React.js](https://reactjs.org/).
 - MySQL - Download and Install [MySQL](https://www.mysql.com/downloads/) - Make sure it's running on the default port.
